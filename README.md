@@ -181,11 +181,14 @@ const tunad = {
 
 <div align="center">
 
+<a href="https://nullshift.sh">
+  <img src="https://img.shields.io/badge/nullshift.sh-7C3AED?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://x.com/0xtunad">
+  <img src="https://img.shields.io/badge/@0xtunad-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 <a href="https://github.com/tuantqse90">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://predictor.nullshift.sh">
-  <img src="https://img.shields.io/badge/NullShift%20Predictor-7C3AED?style=for-the-badge&logoColor=white" />
 </a>
 <a href="mailto:tuantqse90@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
